@@ -1,7 +1,7 @@
 {
     "name": "e-commerce-13",
     "version": "1.0.0",
-    "description": "",
+    "description": "## Starter code cloned from link: https://github.com/coding-boot-camp/fantastic-umbrella",
     "main": "server.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
