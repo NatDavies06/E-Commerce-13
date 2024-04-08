@@ -4,26 +4,25 @@
     "description": "## Starter code cloned from link: https://github.com/coding-boot-camp/fantastic-umbrella",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js",
-      "watch": "nodemon server.js",
-      "seed": "node seeds/index.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "watch": "nodemon server.js",
+        "seed": "node seeds/index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/NatDavies06/E-Commerce-13.git"
+        "type": "git",
+        "url": "https://github.com/NatDavies06/E-Commerce-13.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "devDependencies": {
-      "nodemon": "^2.0.3"
+        "nodemon": "^2.0.3"
     },
     "dependencies": {
-      "dotenv": "^8.2.0",
-      "express": "^4.17.1",
-      "mysql2": "^2.1.0",
-      "sequelize": "^5.21.7"
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mysql2": "^2.1.0",
+        "sequelize": "^6.37.2"
     }
-  }
-  
+}
